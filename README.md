@@ -23,9 +23,12 @@ lib/
 ├── books_screen.dart          # Books list and management screen
 ├── chatbot_screen.dart        # Chatbot screen
 ├── home_screen.dart           # Home screen
+├── login_screen.dart          # Login screen (newly added)
+├── auth_provider.dart         # Authentication state management (newly added)
 ├── main.dart                  # Main entry point of the application
 ├── member_detail_screen.dart  # Member details screen
 ├── members_screen.dart        # Members list and management screen
+
 ```
 
 ### File Descriptions
