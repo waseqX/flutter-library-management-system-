@@ -64,4 +64,4 @@ lib/
 
 
 ## Note
-> This is a Flutter project created by **Mohammad Hassn Waseq** for Mobile Exam at ENSET Mohammadia | 28/05/2024
+> This is a Flutter project created by **Mohammad Hassn Waseq** for Mobile Exam at ENSET Mohammadia | 6/19/2025
