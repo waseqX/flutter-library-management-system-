@@ -1,12 +1,12 @@
 # ![Library Icon](https://img.icons8.com/cotton/32/000000/library.png) Library Management System
 
-![DEMO](images/DEMO.gif)
+
 
 ## Introduction
 
 This project is a **Library Management System** developed using Flutter. It allows users to manage books and members, add comments and ratings, and utilize a chatbot for assistance.
 
-Flutter is an open-source UI software development toolkit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, and the web from a single codebase.
+Flutter is an open-source UI software development toolkit created by Google. It is used to develop cross-platform applications for Android, iOS, Windows, and the web from a single codebase.
 
 ### Features
 - **Book Management**: Add, modify, and delete books.
